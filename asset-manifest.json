@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nlp-ancestry/static/css/main.ad6229a9.chunk.css",
+    "main.js": "/nlp-ancestry/static/js/main.fafd9834.chunk.js",
+    "main.js.map": "/nlp-ancestry/static/js/main.fafd9834.chunk.js.map",
+    "runtime-main.js": "/nlp-ancestry/static/js/runtime-main.125c5f58.js",
+    "runtime-main.js.map": "/nlp-ancestry/static/js/runtime-main.125c5f58.js.map",
+    "static/js/2.4688a788.chunk.js": "/nlp-ancestry/static/js/2.4688a788.chunk.js",
+    "static/js/2.4688a788.chunk.js.map": "/nlp-ancestry/static/js/2.4688a788.chunk.js.map",
+    "index.html": "/nlp-ancestry/index.html",
+    "precache-manifest.5f385108622db98ee254bcfa144af6d2.js": "/nlp-ancestry/precache-manifest.5f385108622db98ee254bcfa144af6d2.js",
+    "service-worker.js": "/nlp-ancestry/service-worker.js",
+    "static/css/main.ad6229a9.chunk.css.map": "/nlp-ancestry/static/css/main.ad6229a9.chunk.css.map",
+    "static/js/2.4688a788.chunk.js.LICENSE.txt": "/nlp-ancestry/static/js/2.4688a788.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.125c5f58.js",
+    "static/js/2.4688a788.chunk.js",
+    "static/css/main.ad6229a9.chunk.css",
+    "static/js/main.fafd9834.chunk.js"
+  ]
+}
